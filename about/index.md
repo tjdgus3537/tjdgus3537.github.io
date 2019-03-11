@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: page
 title: About the Me
 tags: [about]
@@ -24,20 +24,20 @@ comments: false
 
 ## D. Honors andf Awards
 * TOPCIT
-		2016(6È¸) ÇÑÀüKDN ±â¾÷ÀÌ»ç»ó, Áß¾Ó´ëÇÐ±³ ÃÑÀå»ó
-		2017(8È¸) À°±ºÂü¸ðÃÑÀå»ó
-		2017(9È¸) À°±ºÂü¸ðÃÑÀå»ó
-		2018(10È¸) Á¤º¸Åë½Å±â¼úÁøÈï¼¾ÅÍÀå»ó(Àº»ó), Áß¾Ó´ëÇÐ±³ ÃÑÀå»ó
+		2016(6íšŒ) í•œì „KDN ê¸°ì—…ì´ì‚¬ìƒ, ì¤‘ì•™ëŒ€í•™êµ ì´ìž¥ìƒ
+		2017(8íšŒ) ìœ¡êµ°ì°¸ëª¨ì´ìž¥ìƒ
+		2017(9íšŒ) ìœ¡êµ°ì°¸ëª¨ì´ìž¥ìƒ
+		2018(10íšŒ) ì •ë³´í†µì‹ ê¸°ìˆ ì§„í¥ì„¼í„°ìž¥ìƒ(ì€ìƒ), ì¤‘ì•™ëŒ€í•™êµ ì´ìž¥ìƒ
 * ACM-ICPC
-		16È¸(2016) ÇÑ±¹Á¤º¸È­ÁøÈï¿øÀå»ó(µ¿»ó), Team Zaranara murymury(Á¤Áø°æ, È«¼ºÇö, ÀÌ¹Î¼®)
-* ±¹°¡ÀÌ°ø°èÀåÇÐ
-		2016 °úÇÐ±â¼úÁ¤º¸Åë½ÅºÎÀå°ü ÀåÇÐÁõ¼­
-* Áß¾Ó´ë ÇÐ¼úÁ¦
-		2016 ¸ð¹ÙÀÏ ¾Û °³¹ß °æÁø´ëÈ¸ Àå·Á»ó(ÀÌ½ÂÇö, È«¼ºÇö)
+		16íšŒ(2016) í•œêµ­ì •ë³´í™”ì§„í¥ì›ìž¥ìƒ(ë™ìƒ), Team Zaranara murymury(ì •ì§„ê²½, í™ì„±í˜„, ì´ë¯¼ì„)
+* êµ­ê°€ì´ê³µê³„ìž¥í•™
+		2016 ê³¼í•™ê¸°ìˆ ì •ë³´í†µì‹ ë¶€ìž¥ê´€ ìž¥í•™ì¦ì„œ
+* ì¤‘ì•™ëŒ€ í•™ìˆ ì œ
+		2016 ëª¨ë°”ì¼ ì•± ê°œë°œ ê²½ì§„ëŒ€íšŒ ìž¥ë ¤ìƒ(ì´ìŠ¹í˜„, í™ì„±í˜„)
 
 ## Extra
 * paper		A Memetic Algorithm for Traveling Salesman Problem
-		¿ÜÆÇ¿ø ¹®Á¦¸¦ À§ÇÑ ¹Ì¹ÌÆ½ ¾Ë°í¸®Áò
+		ì™¸íŒì› ë¬¸ì œë¥¼ ìœ„í•œ ë¯¸ë¯¸í‹± ì•Œê³ ë¦¬ì¦˜
 
 * Simple-merge	https://github.com/tjdgus3537/2016SE_SimpleMerge
 * PocketBall	https://github.com/leesnhyun/OOP_PocketBall
