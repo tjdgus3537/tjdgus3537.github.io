@@ -9,16 +9,16 @@ comments: false
 <center> Curriculum viatetheme </center>
 
 ## A. Personal Identification
-* Name		SeongHyeon Hong
-* Position	Student of Chang-Ang University
-* E-mail		tjdgus3537@naver.com
-* Interest		Algorithm, Database, Artificial Intelligence
+* Name :		SeongHyeon Hong
+* Position :	Student of Chang-Ang University
+* E-mail : 	tjdgus3537@naver.com
+* Interest	: 	Algorithm, Database, Artificial Intelligence
 
 ## B. Education
 * 2014 ~ now	B.S, School of Computer Science and Engineering, CAU
 
 ## C. Open Source Contribution
-* <a href="https://github.com/BurntSushi/ripgrep/pull/213"> ripgrep </a>
+* <a href="https://github.com/BurntSushi/ripgrep/pull/213">ripgrep</a>
 
 ## D. Honors andf Awards
 * TOPCIT<br>
@@ -38,7 +38,7 @@ comments: false
 		외판원 문제를 위한 미미틱 알고리즘
 * <a href="https://github.com/tjdgus3537/2016SE_SimpleMerge"> Simple-merge </a>
 * <a href="https://github.com/leesnhyun/OOP_PocketBall">PocketBall </a>
-* Problem Solving	<br><a href="https://www.acmicpc.net/user/tjdgus3537"> baekjoon </a><br>
-		<a href="https://codeforces.com/profile/stb"> codeforces </a><br>
-		<a href="https://atcoder.jp/users/stb"> atcoder </a><br>
+* Problem Solving	<br><a href="https://www.acmicpc.net/user/tjdgus3537"> baekjoon</a><br>
+		<a href="https://codeforces.com/profile/stb"> codeforces</a><br>
+		<a href="https://atcoder.jp/users/stb"> atcoder</a><br>
 		
